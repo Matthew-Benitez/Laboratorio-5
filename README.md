@@ -11,11 +11,10 @@
    - Obtener el circuito simplificado de Thévenin y comprobar que la corriente y el voltaje que pasan por la resistencia son las mismas.
    
 2. MARCO TEÓRICO
-
    
-
-
-3. DIAGRAMAS
+   
+   
+4. DIAGRAMAS
    - Modelo Del Circuito
    
    ![image](https://user-images.githubusercontent.com/75439689/108273068-155a8980-7141-11eb-9c75-171ccb45f0cc.png)
@@ -62,7 +61,7 @@
 
 5. EXPLICACIÓN
 
-   5.1.Procedimiento
+   5.1. Procedimiento
    
      - Ingresar a la plataforma Tinkercad y crear un nuevo circuito, en el cual se escogen los componentes listados anteriormente con los valores predispuestos (tanto de voltaje como de resistencia)
      - Conectar en serie la fuente de voltaje de 15 V, la resistencia de 1.2kohm y la resistencia RL (en ese orden específico).
@@ -90,9 +89,9 @@
 
 6. CONCLUSIONES
 
-   - Mediante el análisis de los valores obtenidos tanto experimental como teóricamente, se concluye que la potencia máxima que una fuente puede suministrar a una carga, se da cuando la resistencia de carga es igual a la resistencia conectada en serie entre la fuente y la carga. Demostrándose así el Teorema de Transferencia de la Potencia Máxima.
-   - Mientras el valor de la resistencia de carga se acerque más al valor de la otra resistencia, mayor será la potencia consumida de la carga. Por otro lado, mientras más se aleje el valor de la resistencia de carga al valor de la otra resistencia, el valor de dicha potencia disminuirá.
-   - Comparando entre los valores obtenidos prácticamente y los calculados teóricamente, existe un error porcentual mínimo; lo cual demuestra que en la simulación se miden valores aproximados, mientras que en los cálculos se obtienen valores más certeros y reales.
+   - 
+   - 
+   - 
  
 7. BIBLIOGRAFÍA
 
