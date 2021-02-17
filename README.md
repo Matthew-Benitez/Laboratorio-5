@@ -73,7 +73,7 @@
    
 - Valores de Circuito Equivalente de Thévenin.
    
-![image](https://user-images.githubusercontent.com/75439689/108279907-5f486d00-714b-11eb-84d2-351a415961e2.png)
+   ![image](https://user-images.githubusercontent.com/75439689/108279907-5f486d00-714b-11eb-84d2-351a415961e2.png)
    
    *Tabla 5.1*
    
