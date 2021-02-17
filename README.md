@@ -72,13 +72,13 @@
 
    5.2. Tablas de Valores.
    
-   - Valores de Circuito Equivalente de Thévenin.
+-Valores de Circuito Equivalente de Thévenin.
    
 ![image](https://user-images.githubusercontent.com/75439689/108279907-5f486d00-714b-11eb-84d2-351a415961e2.png)
    
    *Tabla 5.1*
    
-   - Comprobación del Circuito de Thévenin.
+-Comprobación del Circuito de Thévenin.
    
    ![image](https://user-images.githubusercontent.com/75439689/108280040-8e5ede80-714b-11eb-932b-b148f47bf2ce.png)
    
