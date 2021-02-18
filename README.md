@@ -12,7 +12,8 @@
    
 2. MARCO TEÓRICO
    
-   
+   ![image](https://user-images.githubusercontent.com/76133212/108288009-ccfb9580-7159-11eb-82cf-7d5c1e920320.png)
+
    
 4. DIAGRAMAS
    - Modelo Del Circuito
