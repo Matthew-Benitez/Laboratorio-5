@@ -65,10 +65,12 @@
    5.1. Procedimiento
    
      - Ingresar a la plataforma Tinkercad y crear un nuevo circuito, en el cual se escogen los componentes listados anteriormente con los valores predispuestos (tanto de voltaje como de resistencia)
-     - Conectar en serie la fuente de voltaje de 15 V, la resistencia de 1.2kohm y la resistencia RL (en ese orden específico).
-     - A continuación se procede a medir el valor de corriente que pasa por RL con el multímetro, el cual debe estar conectado en serie entre las dos resistencias.
-     - Posteriormente se mide el voltaje de RL con el multímetro conectado en paralelo a la resistencia RL.
-     - Dar los valores de RL; y con cada valor, se da inicio a la simulación y se anotan los valores medidos de corriente y voltaje de RL uno por uno.
+     - Conectar 3 mallas, donde la primera contenga la fuente de 12V, la resistencia R1 y la resistencia R2; la segunda con R2, la fuente de 2V y R3; y por último la tercera malla con las resistencias R3, R4 y R5.
+     - Medir el voltaje y la corriente de R5 para compararlos con los que se obtendrán mediante la aplicación del teormema de Thévenin.
+     - Desconectar R5 y medir el voltaje entre las terminales abiertas del circuito (voltaje de Thévenin VTH).
+     - Reemplazar las fuentes de alimentación por sus resistencias internas (en este caso R=0ohm en ambas fuentes) y medir la resistencia equivalente del circuito desde la terminal abierta (resistencia de Thévenin RTH)
+     - Con el voltaje y la resistencia medidos, se procede a armar el circuito equivalente de Thévenin. Conformado por una fuente de voltaje con valor VTH, conectada en serie con una resistencia de valor RTH y con R5.
+     - Medir la corriente y el voltaje de R5 en el circuito equivalente de Thévenin. Los cuales equivalen a los valores medidos de R5 en el circuito original.
 
    5.2. Tablas de Valores.
    
@@ -90,9 +92,10 @@
 
 6. CONCLUSIONES
 
-   - 
-   - 
-   - 
+   - Aplicar el Teorema de Thévenin resulta práctico al momento de analizar un circuito complejo con un número elevado de elementos, ya que este teorema permite obtener un circuito equivalente al original pero mucho más sencillo debido a que este sólo consta de la conexión en serie de la fuente de voltaje (VTH), la resistencia de Thévenin (RTH) y la resistencia o la carga la cuál se desea estudiar.
+   - La precisión del Teorema de Thévenin es alta, ya que en el cálculo del error se obtuvo un porcentaje de 1.03% en las mediciones y un 0.01% en los cálculos (comparando entre los valores del circuito orginial y el circuito equivalente de Thévenin). Lo cual indica que emplear este Teorema resulta útil y práctico.
+   - El concepto que maneja el Teorema de Thévenin (el de obtener un circuito equivalente al original pero con una mínima cantidad de elementos) se puede dar en la construcción de diversos aparatos o dispositivos electrónicos con el fin de abaratar costos en la producción de dichos aparatos ya que contendrían menos elementos.
+ 
  
 7. BIBLIOGRAFÍA
 
